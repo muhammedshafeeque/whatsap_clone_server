@@ -1,0 +1,6 @@
+setup config.json
+   {
+       "port" :
+       "db_url":
+       "db":
+   }
